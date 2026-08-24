@@ -11,12 +11,11 @@ An interactive Power BI analysis of the Brazilian Olist e-commerce dataset, cove
 
 ### Post-Purchase Analysis
 
-![Post-Purchase Analysis](./_Post-Purchase-Analysis.png)
+![Sales Analysis](./_Sales-Analysis.png)
 
 ### Sales Analysis
 
-![Sales Analysis](./_Sales-Analysis.png)
-
+![Post-Purchase Analysis](./_Post-Purchase-Analysis.png)
 ---
 
 ## Project Overview
