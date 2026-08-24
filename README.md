@@ -1,8 +1,4 @@
 # Brazilian-Ecommerce-PowerBI
-Interactive Power BI analysis of the Brazilian Olist e-commerce dataset, covering sales, customers, sellers, products, delivery performance, payments, and geographic insights.
-
-
-# Brazilian E-Commerce Analysis — Power BI
 
 An interactive Power BI analysis of the Brazilian Olist e-commerce dataset, covering sales performance, customers, sellers, products, delivery performance, payments, and geographic insights.
 
@@ -10,15 +6,15 @@ An interactive Power BI analysis of the Brazilian Olist e-commerce dataset, cove
 
 ### Home Dashboard
 
-![Home Dashboard](Screenshots/Home.png)
+![Home Dashboard](./_Home.png)
 
 ### Sales Analysis
 
-![Sales Analysis](Screenshots/Sales-Analysis.png)
+![Sales Analysis](./_Sales-Analysis.png)
 
 ### Post-Purchase Analysis
 
-![Post-Purchase Analysis](Screenshots/Post-Purchase-Analysis.png)
+![Post-Purchase Analysis](./_Post-Purchase-Analysis.png)
 
 ---
 
